@@ -1,11 +1,11 @@
-# revision 31753
+# revision 32278
 # category Package
 # catalog-ctan /macros/latex/contrib/skdoc
-# catalog-date 2013-09-23 20:51:25 +0200
+# catalog-date 2013-11-28 23:56:30 +0100
 # catalog-license lppl1.3
-# catalog-version 1.4
+# catalog-version 1.4a
 Name:		texlive-skdoc
-Version:	1.4
+Version:	1.4a
 Release:	1
 Summary:	Documentation and extraction for packages and document classes
 Group:		Publishing
