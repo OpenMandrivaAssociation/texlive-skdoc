@@ -6,7 +6,7 @@
 # catalog-version 1.4a
 Name:		texlive-skdoc
 Version:	1.4a
-Release:	5
+Release:	6
 Summary:	Documentation and extraction for packages and document classes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skdoc
