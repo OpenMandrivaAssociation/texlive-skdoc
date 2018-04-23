@@ -5,7 +5,7 @@
 # catalog-license lppl1.3
 # catalog-version 1.4a
 Name:		texlive-skdoc
-Version:	1.5
+Version:	1.5a
 Release:	1
 Summary:	Documentation and extraction for packages and document classes
 Group:		Publishing
