@@ -1,6 +1,6 @@
 Name:		texlive-skdoc
 Version:	56950
-Release:	1
+Release:	2
 Summary:	Documentation and extraction for packages and document classes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/skdoc
